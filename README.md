@@ -85,7 +85,3 @@ a first-pass linear model. It performs well for low-to-medium costs but
 **underpredicts the most extreme high-cost cases** ("super-utilizers"), a known
 challenge in healthcare cost modelling.
 
-![Actual vs Predicted](images/actual_vs_predicted.png)
-*Actual vs. predicted medical costs — points cluster along the ideal line for low/medium costs but diverge at the high end.*
-
----
